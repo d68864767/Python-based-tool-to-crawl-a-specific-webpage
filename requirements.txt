@@ -1,0 +1,19 @@
+# Web scraping and parsing
+beautifulsoup4==4.9.3
+requests==2.25.1
+selenium==3.141.0
+
+# AI for documentation generation
+openai==0.27.0
+
+# Web framework
+Flask==2.0.1
+
+# Testing
+pytest==6.2.4
+
+# Optimization
+numpy==1.21.2
+
+# Deployment
+gunicorn==20.1.0
